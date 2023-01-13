@@ -1,3 +1,5 @@
+***This is a copy of the [original repo](https://github.com/AndrewZinc/Expect_Life) 
+
 # Expect life - A Glimpse into Global Life Expectancies 
 
 ## Project Overview and Purpose
@@ -29,7 +31,7 @@ There are five deliverables in this project:
 * Machine Learning: Python, Scikit-Learn, NumPy
 * Presentation: Tableau, Plotly, Sweetviz, HVPlot, Seaborn
 
-Note: `requirements.txt` is provided to enable recreation of the analysis environment.
+Note: [requirements.txt](https://github.com/mrjaytv/Expect_Life/blob/7526ec8d66ff582ae322bf828e77e5ca5fc410e6/requirements.txt) is provided to enable recreation of the analysis environment.
 
 #### Social Security System General Definitions
 Note:  In all cases, parenthetical benefits are defined as the ONLY benefits provided by the system.
