@@ -1,0 +1,14 @@
+Features:
+
+Country
+Alcohol Consumption
+Tobacco Usage
+Daily Protein Intake
+GDP
+gov't spending on health (% gdp)
+gov't spending on health (PPP international $)
+private spending on health
+social security type
+
+Target:
+Life expectancy
